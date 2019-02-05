@@ -1,4 +1,4 @@
-#Exploring visualization
+# Exploring visualization
 
 This repo is a collection of different visualizations which I'm experimenting with and working on.
 
